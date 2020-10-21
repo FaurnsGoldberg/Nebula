@@ -9,6 +9,7 @@
 	#include "../../code/datums/music_tracks/dirtyoldfrogg.dm"
 
 	// Map defines.
+	#include "turfs/exterior_outreach.dm"
 	#include "persistence_defines.dm"
 	#include "chargen/chargen_areas.dm"
 	#include "chargen/chargen.dmm"

@@ -3,10 +3,10 @@
 /turf/simulated/wall/natural/random,
 /area/outreach/mines/depth_2)
 "b" = (
-/turf/exterior/barren/outreach,
+/turf/simulated/floor/exoplanet/barren,
 /area/outreach/mines)
 "c" = (
-/turf/exterior/concrete/outreach,
+/turf/simulated/floor/exoplanet/concrete,
 /area/outreach/mines)
 "d" = (
 /obj/structure/ladder,
